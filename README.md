@@ -4,6 +4,7 @@
 Ho Thanh Duy Khanh†, Bui Nguyen Phuong Linh†, Nguyen Thi Nguyet† and Nguyen Thi Phuong Thao†
 
 **†** VNUHCM - University of Information Technology, Viet Nam.
+
 Contributing authors: [20521445, 20521527, 20521689, 20521936]@gm.uit.edu.vn
 
 ## Abstract
