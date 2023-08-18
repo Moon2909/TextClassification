@@ -9,10 +9,10 @@ Community Question Answering (CQA) is the field of computational linguistics tha
 - Deep learning: LSTM, Bi-LSTM, and Distil-BERT.
 - Machine learning: Logistic Regression, Multinomial Naıve Bayes, Decision Tree, Random Forest.
 
-![LSTM]([https://github.com/Moon2909/TextClassification/blob/main/LSTM.png])
-![Bi-LSTM]([https://github.com/Moon2909/TextClassification/blob/main/Bi-LSTM.jpg])
-![Distil-BERT]([https://github.com/Moon2909/TextClassification/blob/main/Distil-BERT.png])
+![LSTM](https://github.com/Moon2909/TextClassification/blob/main/LSTM.png)
+![Bi-LSTM](https://github.com/Moon2909/TextClassification/blob/main/Bi-LSTM.jpg)
+![Distil-BERT](https://github.com/Moon2909/TextClassification/blob/main/Distil-BERT.png)
 
 ## Dataset
 
-[Dataset trên Kaggle]([https://www.kaggle.com/datasets/imoore/60k-stack-overflow-questions-with-quality-rate])
+[Dataset trên Kaggle](https://www.kaggle.com/datasets/imoore/60k-stack-overflow-questions-with-quality-rate)
