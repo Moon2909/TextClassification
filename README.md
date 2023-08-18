@@ -1,13 +1,10 @@
 # Text Classification
-QUALITY CLASSIFICATION OF QUESTIONS ON STACK OVERFLOW
+**QUALITY CLASSIFICATION OF QUESTIONS ON STACK OVERFLOW**
 
-Ho Thanh Duy Khanh, Bui Nguyen Phuong Linh, Nguyen Thi Nguyet and Nguyen Thi Phuong Thao
+Ho Thanh Duy Khanh†, Bui Nguyen Phuong Linh†, Nguyen Thi Nguyet† and Nguyen Thi Phuong Thao†
 
-VNUHCM - University of Information Technology, Viet Nam.
-
+**†** VNUHCM - University of Information Technology, Viet Nam.
 Contributing authors: [20521445, 20521527, 20521689, 20521936]@gm.uit.edu.vn
-
-†These authors contributed equally to this work.
 
 ## Abstract
 Community Question Answering (CQA) is the field of computational linguistics that deals with problems derived from the questions and answers posted to websites and it has a growing popularity as a way of providing and researching information. Crowdsourced knowledge is a resource for users yet it can raise concerns about the quality of the shared content. As recognizing good questions that can improve the CQA services and the user’s experience, the study focuses on question quality instead. Using a dataset of questions and answers posted to the Stack Overflow website, we have analyzed and conducted quality classification of questions. In addition to taking advantage of the natural language processing capabilities of neural network Deep Learning models such as LSTM, Bi-LSTM, and Distil-BERT, we also apply some Machine Learning classification models like Logistic Regression, Multinomial Na ̈ıve Bayes, Decision Tree, Random Forest. Then we compare all the models and give the best model to help classify the quality of the question. Initially, the result was obtained with the Distil-BERT model with the highest accuracy of 91.80%.
