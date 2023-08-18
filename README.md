@@ -1,4 +1,4 @@
-# TextClassification
+# Text Classification
 QUALITY CLASSIFICATION OF QUESTIONS ON STACK OVERFLOW
 
 ## Abstract
